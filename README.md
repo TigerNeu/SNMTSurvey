@@ -201,6 +201,6 @@ In this document, we survey papers on streaming neural machine translation (SNMT
 
 ## Team Members
 
-The project is maintained by <b>*Laohu Wang*</b>
+The project is maintained by <b>*NiuTrans*</b>
 
 Please feel free to contact us if you have any questions (wanglaohu [at] TigerNeu@outlook.com).
